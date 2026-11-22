@@ -901,5 +901,5 @@ This project was developed as part of **Convolve 3.0**, a Pan-IIT AI/ML Hackatho
 
 ## Author
 
-**Pratham Sabharwal**  
+**Aditya Verma**  
 Indian Institute of Technology Guwahati
